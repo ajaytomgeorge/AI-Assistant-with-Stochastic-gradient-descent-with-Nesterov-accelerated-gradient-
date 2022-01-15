@@ -17,10 +17,10 @@ python  .\retrain_assistant.py
 
 
 Sample Screenshots
-![Casual talk](.sreenshots/sample0.jpg)
-![Configuration Help](.sreenshots/sample1.jpg)
-![Connect me to HR!](.sreenshots/sample2.jpg)
+![Casual talk](sample0.jpg)
+![Configuration Help](sample1.jpg)
+![Connect me to HR!](sample2.jpg)
 
 
 Analysis
-![Accuracy during training](sreenshots/accuracry_.94.png?raw=true "Accuracy")
+![Accuracy during training](accuracry_.94.png)
