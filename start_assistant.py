@@ -96,7 +96,7 @@ SendButton = Button(base, font=("Verdana",12,'bold'), text="SEND", width="12", h
 EntryBox = Text(base, bd=0, bg="white",width="29", height="5", font="Arial",borderwidth=2)
 
 scrollbar.place(x=376,y=6, height=500)
-ChatLog.place(x=6,y=6, height=500, width=450)
+ChatLog.place(x=6,y=6, height=500, width=850)
 EntryBox.place(x=128, y=401, height=90, width=265)
 SendButton.place(x=6, y=401, height=90)
 

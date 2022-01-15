@@ -187,7 +187,7 @@
         },
         {"tag": "name",
          "patterns": ["what is your name?","what should I call you?"],
-         "responses": ["I'm Bruno","Hey!I'm Bruno"],
+         "responses": ["I'm LoveyDovey","Hey!I'm LoveyDovey"],
          "context": [""]
         },
          {"tag": "about",
