@@ -17,9 +17,9 @@ python  .\retrain_assistant.py
 
 
 Sample Screenshots
-![Casual talk](sreenshots/sample0?raw=true "Nice name :-)")
-![Configuration Help](sreenshots/sample1?raw=true "Some Help")
-![Connect me to HR!](sreenshots/sample2?raw=true "I don't want to talk to a bot! ")
+![Casual talk](.sreenshots/sample0.jpg)
+![Configuration Help](.sreenshots/sample1.jpg)
+![Connect me to HR!](.sreenshots/sample2.jpg)
 
 
 Analysis
