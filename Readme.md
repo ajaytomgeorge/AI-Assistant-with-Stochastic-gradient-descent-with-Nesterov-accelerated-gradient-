@@ -1,15 +1,18 @@
-How to run
+## How to run
+
 1.Install requirements
 ```
 pip install requirements.txt
 ```
 
 2.GUI
+
 ```
 python  .\start_assistant.py
 ```
 
-Retraining
+## Retraining
+
 Update dataset in "intent.json" and then
 ```
 python  .\retrain_assistant.py
@@ -17,9 +20,12 @@ python  .\retrain_assistant.py
 
 
 Sample Screenshots
-![Casual talk](sample0.jpg)
-![Configuration Help](sample1.jpg)
-![Connect me to HR!](sample2.jpg)
+
+![Casual talk](v1.jpg)
+
+![Configuration Help](v2.jpg)
+
+![Connect me to HR!](v3.jpg)
 
 
 Analysis
